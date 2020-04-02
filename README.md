@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # X-Press Publishing
 
 ## Project Overview
